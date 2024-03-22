@@ -1,4 +1,4 @@
-Para botar o treco pra funcionar:
-1. Coloque a pasta "projeto" da htdocs.
-2. A pasta classeslol dentro de Xampp/mysql/data
-Acho que deve funcionar, qualquer coisa me manda uma mensagem ;)
+DESAFIO HARDWARE PRA VC
+duvido vc por pra funcionar sem ajuda
+
+mas qualquer coisa me manda uma mensagem ;)
